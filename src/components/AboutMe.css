@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-image: url('./background_image.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .about-me-container {
+    text-align: center;
+    padding: 20px;
+     
+  }
+  
+  .profile-image {
+    width: 200px;
+    border-radius: 50%;
+    border: 3px solid #0b0101;
+  }
+  

@@ -1,0 +1,25 @@
+/* AppRouter.css */
+
+/* Style the navigation links */
+nav {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  margin: 10px;
+}
+
+/* Add some styling to the active link */
+nav a.active {
+  font-weight: bold;
+}
+
+/* Style the entire router component container */
+.Router-container {
+  padding: 20px;
+}

@@ -1,0 +1,42 @@
+.my-town-container {
+    text-align: center;
+    padding: 20px;
+    color:black;
+  }
+  
+  .my-town-image {
+    width: 350px;
+    height: 200px;
+  }
+  
+  .my-town-description {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .weather-icon {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .temperature {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .toggle-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .toggle-button:hover {
+    background-color: #555;
+  }
+  
